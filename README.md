@@ -1,5 +1,8 @@
 # Hakronomia
 
+<!--START_SECTION:BOM-TABLE-->
+<!--END_SECTION:BOM-TABLE-->
+
 <img width="1034" height="900" alt="image" src="https://github.com/user-attachments/assets/b32604f4-7dbe-4195-bde2-0b71a842cef6" />
 
 <img width="935" height="846" alt="image" src="https://github.com/user-attachments/assets/26af54c9-22df-4bdb-8102-4b393dc6ff8d" />
