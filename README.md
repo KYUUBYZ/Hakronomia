@@ -9,7 +9,7 @@
 | 2.2uF | 2 | Unikeyic | $0.05 | $0.10 | [Link](https://www.unikeyic.com/products/ceramic-capacitors/cga4j3x7r1c225kt0y0n/8873476.html?sku=1003001017784221) |
 | 10uF | 4 | Unikeyic | $0.08 | $0.32 | [Link](https://www.unikeyic.com/products/ceramic-capacitors/c2012x7r0j106k125ab/17422021.html?sku=1003001013214412) |
 | AudioJack5 | 1 | Futuranet | $0.30 | $0.30 | [Link](https://futuranet.it/prodotto/presa-jack-stereo-35-mm-da-circuito-stampato/) |
-| 330R | 12 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/rc0805fr-07330rl/4454264.html?sku=1003001443534963) |
+| 330R | 12 | Unikeyic | $0.01 | $0.12 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/rc0805fr-07330rl/4454264.html?sku=1003001443534963) |
 | 4.7k | 2 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/rc0805fr-7w4k7l/3329266.html?sku=1003001021096266) |
 | 75k | 1 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/wr08x753-jtl/28917829.html?sku=1003001442043903) |
 | 10k | 2 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/0805w8f1002t5e/33861683.html?sku=1003001012328856) |
