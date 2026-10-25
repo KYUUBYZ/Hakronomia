@@ -15,7 +15,7 @@
 | 10k | 2 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/0805w8f1002t5e/33861683.html?sku=1003001012328856) |
 | 470R | 2 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/0805w8f4700t5e/27378691.html?sku=1003001012328951) |
 | 0R | 1 | Unikeyic | $0.01 | $0.01 | [Link](https://www.unikeyic.com/products/surface-mount-resistors/rtt050000ftp/30082103.html?sku=1003001013772933) |
-| RP2040-Zero | 1 | Futuranet | $0.00 | $0.00 | [Link](https://futuranet.it/prodotto/scheda-di-sviluppo-mini-basata-su-rp2040/) |
+| RP2040-Zero | 1 | Futuranet | $6.61 | $6.61 | [Link](https://futuranet.it/prodotto/scheda-di-sviluppo-mini-basata-su-rp2040/) |
 | RotaryEncoder_Switch_MP | 3 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/encoders-and-decoders/ec11e15244g1/24342867.html?sku=1003001012811431) |
 | ER_OLEDM0.91_1x-I2C | 1 | Futuranet | $0.00 | $0.00 | [Link](https://futuranet.it/prodotto/display-oled-i2c-091-128x32-pixel/) |
 | MPR121QR2 | 1 | Unikeyic | $0.00 | $0.00 | [Link](https://www.unikeyic.com/products/other-interface/mpr121qr2/11118659.html?sku=1003001027325782) |
