@@ -1,6 +1,6 @@
 "Reference","Qty","Value","DNP","Footprint","Links"
 "C1,C9,C10,C12,C18,C20","6","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
-"C2,C11","2","2.2nF",","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
+"C2,C11","2","2.2nF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
 "C3,C4,C5,C6,C7,C8","6","10nF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
 "C13,C19","2","2.2uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
 "C16,C17,C21,C22","4","10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
