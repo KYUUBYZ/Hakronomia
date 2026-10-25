@@ -11,6 +11,17 @@
 | EC11E15244G1 | 3 | Unikeyic | $2.00 | $6.00 | [Link](https://www.unikeyic.com/products/encoders-and-decoders/ec11e15244g1/24342867.html?sku=1003001012811431) |
 | Estimated total shipping | 1 |  |  | $5.00 |  |
 <!--END_SECTION:BOM-TABLE-->
+# HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
+
+1)    Connect your RP2040-ZERO to your PC using a data transfer cable while pressing BOOT 
+
+2)    Install/Copy the "adafruit-ciruitpython-waveshare" file i put in this folder ON the RP2040-ZERO.
+
+3)    you should see file be downloaded on your microcontroller.
+
+4)    From CircuitPython libraries bundle, copy "adafruit_mpr121, adafruit_displayio_ssd1306, adafruit_display_text, adafruit_bus_device" on the rp2040-zero.
+
+5)    Copy Hakronomia.py on the rp2040-zero
 
 <img width="1034" height="900" alt="image" src="https://github.com/user-attachments/assets/b32604f4-7dbe-4195-bde2-0b71a842cef6" />
 
