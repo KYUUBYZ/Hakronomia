@@ -8,7 +8,7 @@
 | rp2040-zero | 1 | Futura net | $6.51 | $6.51 | [Link](https://futuranet.it/prodotto/scheda-di-sviluppo-mini-basata-su-rp2040/) |
 | 0.91 OLED SCREEN | 1 | Futura net | $6.62 | $6.62 | [Link](https://futuranet.it/prodotto/display-oled-i2c-091-128x32-pixel/) |
 | 3,5mm jack | 1 | Futura net | $0.34 | $0.34 | [Link](https://futuranet.it/prodotto/presa-jack-stereo-35-mm-da-circuito-stampato/) |
-| EC11E15244G1 | 3 | Unikeyic | $2.00 | $6.00 | [Link](https://www.unikeyic.com/products/encoders-and-decoders/ec11e15244g1/24342867.html?sku=1003001012811431) |
+| EC11E15244G1 | 3 | Unikeyic | $1.49 | $4.47 | [Link](https://www.unikeyic.com/products/encoders-and-decoders/ec11e15244g1/24342867.html?sku=1003001012811431) |
 | Estimated total shipping | 1 |  |  | $5.00 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
