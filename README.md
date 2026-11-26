@@ -4,7 +4,7 @@
 | Item | Qty | Supplier | Cost/item | Total Cost | link |
 | --- | --- | --- | --- | --- | --- |
 | Estimated total shipping | 1 |  | $0.00 | $0.00 |  |
-| Estimated total shipping | 1 |  |  | $52.82 |  |
+| Estimated total shipping | 1 |  |  | $0.00 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
 
