@@ -20,7 +20,7 @@
 | ER_OLEDM0.91_1x-I2C | 1 | Futuranet | $6.50 | $6.50 | [Link](https://futuranet.it/prodotto/display-oled-i2c-091-128x32-pixel/) |
 | MPR121QR2 | 1 | Unikeyic | $1.61 | $1.61 | [Link](https://www.unikeyic.com/products/other-interface/mpr121qr2/11118659.html?sku=1003001027325782) |
 | PCM5102A | 1 | Unikeyic | $1.31 | $1.31 | [Link](https://www.unikeyic.com/products/adc-dac-specialized/pcm5102apwr/33225117.html?sku=1003001444976630) |
-| PCB | 5 | JLPCB | $6.20 | $6.20 | h |
+| PCB | 5 | JLPCB | $6.20 | $6.20 |  |
 | Estimated total shipping | 1 |  |  | $11 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
