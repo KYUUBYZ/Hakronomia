@@ -16,7 +16,7 @@
 | MPR121QR2 | NXP | 1 | 2.6105 | 2.61 | LCSC | [Link](https://www.lcsc.com/product-detail/C91322.html) |
 | PCM5102APWR | TI | 1 | 1.5052 | 1.51 | LCSC | [Link](https://www.lcsc.com/product-detail/C107671.html) |
 | PCB | JLPCB | 5 | 6.20 | 6.20 | JLPCB |  |
-| Shipping cost |  |  | $6.6 | $6.6 |  |  |
+| Shipping cost |  |  | $9 | $9 |  |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
 
