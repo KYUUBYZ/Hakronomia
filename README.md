@@ -16,7 +16,7 @@
 | MPR121QR2 | 1 | LCSC | $2.61 | $2.61 | [Link](https://www.lcsc.com/product-detail/C91322.html) |
 | PCM5102APWR | 1 | LCSC | $1.51 | $1.51 | [Link](https://www.lcsc.com/product-detail/C107671.html) |
 | PCB | 1 | JLPCB | $6.20 | $6.20 |  |
-| Estimated total shipping | 1 |  | $8.00 | $8.00 |  |
+| Estimated total shipping | 1 |  | $12.00 | $12.00 |  |
 | Estimated total shipping | 1 |  |  | $0.00 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
