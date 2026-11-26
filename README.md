@@ -3,8 +3,20 @@
 <!--START_SECTION:BOM-TABLE-->
 | Item | Qty | Supplier | Cost/item | Total Cost | link |
 | --- | --- | --- | --- | --- | --- |
-| Estimated total shipping | 1 |  | $0.00 | $0.00 |  |
-| Estimated total shipping | 1 |  |  | $24.20 |  |
+| CGA0805X7R104K500KT | 100 | LCSC | 0.0043 | 0.43 | [Link](https://www.lcsc.com/product-detail/C7503486.html) |
+| CGA0805X7R222K500KT | 100 | LCSC | 0.0066 | 0.66 | [Link](https://www.lcsc.com/product-detail/C5254797.html) |
+| TCC0805X7R103K251DT | 100 | LCSC | 0.0061 | 0.61 | [Link](https://www.lcsc.com/product-detail/C282726.html) |
+| CC0805ZRY5V6BB225 | 20 | LCSC | 0.0345 | 0.69 | [Link](https://www.lcsc.com/product-detail/C520072.html) |
+| GRM21BR61C106KE15L | 20 | LCSC | 0.0375 | 0.75 | [Link](https://www.lcsc.com/product-detail/C77075.html) |
+| FRC0805F3300TS | 100 | LCSC | 0.0025 | 0.25 | [Link](https://www.lcsc.com/product-detail/C2930157.html) |
+| FRC0805F4701TS | 100 | LCSC | 0.0022 | 0.22 | [Link](https://www.lcsc.com/product-detail/C2907264.html) |
+| 0805 ±5% 75K | 100 | LCSC | 0.0031 | 0.31 | [Link](https://www.lcsc.com/product-detail/C2889622.html) |
+| RT0805BRD0710KL | 20 | LCSC | 0.0371 | 0.74 | [Link](https://www.lcsc.com/product-detail/C110775.html) |
+| FRC0805F4700TS | 100 | LCSC | 0.0022 | 0.22 | [Link](https://www.lcsc.com/product-detail/C2907267.html) |
+| MPR121QR2 | 1 | LCSC | 2.6105 | 2.61 | [Link](https://www.lcsc.com/product-detail/C91322.html) |
+| PCM5102APWR | 1 | LCSC | 1.5052 | 1.51 | [Link](https://www.lcsc.com/product-detail/C107671.html) |
+| PCB | 5 | JLPCB | 6.20 | 6.20 |  |
+| Shipping cost |  |  | 6.6 | 6.6 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
 
