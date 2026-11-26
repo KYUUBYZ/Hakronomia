@@ -1,22 +1,10 @@
 # Hakronomia
 
 <!--START_SECTION:BOM-TABLE-->
-| Product name | Producer | Order Qty. | Unit Price(USD) | Ext.Price(USD) | Vendor | Product Link |
-| --- | --- | --- | --- | --- | --- | --- |
-| CGA0805X7R104K500KT | HRE | 100 | 0.0043 | 0.43 | LCSC | [Link](https://www.lcsc.com/product-detail/C7503486.html) |
-| CGA0805X7R222K500KT | HRE | 100 | 0.0066 | 0.66 | LCSC | [Link](https://www.lcsc.com/product-detail/C5254797.html) |
-| TCC0805X7R103K251DT | CCTC | 100 | 0.0061 | 0.61 | LCSC | [Link](https://www.lcsc.com/product-detail/C282726.html) |
-| CC0805ZRY5V6BB225 | YAGEO | 20 | 0.0345 | 0.69 | LCSC | [Link](https://www.lcsc.com/product-detail/C520072.html) |
-| GRM21BR61C106KE15L | muRata | 20 | 0.0375 | 0.75 | LCSC | [Link](https://www.lcsc.com/product-detail/C77075.html) |
-| FRC0805F3300TS | FOJAN | 100 | 0.0025 | 0.25 | LCSC | [Link](https://www.lcsc.com/product-detail/C2930157.html) |
-| FRC0805F4701TS | FOJAN | 100 | 0.0022 | 0.22 | LCSC | [Link](https://www.lcsc.com/product-detail/C2907264.html) |
-| 0805 ±5% 75K | VO | 100 | 0.0031 | 0.31 | LCSC | [Link](https://www.lcsc.com/product-detail/C2889622.html) |
-| RT0805BRD0710KL | YAGEO | 20 | 0.0371 | 0.74 | LCSC | [Link](https://www.lcsc.com/product-detail/C110775.html) |
-| FRC0805F4700TS | FOJAN | 100 | 0.0022 | 0.22 | LCSC | [Link](https://www.lcsc.com/product-detail/C2907267.html) |
-| MPR121QR2 | NXP | 1 | 2.6105 | 2.61 | LCSC | [Link](https://www.lcsc.com/product-detail/C91322.html) |
-| PCM5102APWR | TI | 1 | 1.5052 | 1.51 | LCSC | [Link](https://www.lcsc.com/product-detail/C107671.html) |
-| PCB | JLPCB | 5 | 6.20 | 6.20 | JLPCB |  |
-| Shipping cost |  |  | $9 | $9 |  |  |
+| Item | Qty | Supplier | Cost/item | Total Cost | link |
+| --- | --- | --- | --- | --- | --- |
+| Estimated total shipping | 1 |  | $0.00 | $0.00 |  |
+| Estimated total shipping | 1 |  |  | $24.20 |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
 
