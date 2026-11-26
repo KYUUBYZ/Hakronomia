@@ -15,7 +15,7 @@
 | FRC0805F4700TS | FOJAN | 100 | 0.0022 | 0.22 | LCSC | [Link](https://www.lcsc.com/product-detail/C2907267.html) | 470R | R18,R19 | 2 |
 | MPR121QR2 | NXP | 1 | 2.6105 | 2.61 | LCSC | [Link](https://www.lcsc.com/product-detail/C91322.html) | MPR121QR2 | U2 | 1 |
 | PCM5102APWR | TI | 1 | 1.5052 | 1.51 | LCSC | [Link](https://www.lcsc.com/product-detail/C107671.html) | PCM5102A | U3 | 1 |
-| PCB | JLPCB | 5 | $6.20 | $6.20 | JLPCB |  |  |  |
+| PCB | JLPCB | 5 | $6.20 | $6.20 | JLPCB |  |  |
 | Shipping cost |  |  | $6.6 | $6.6 |  |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
