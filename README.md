@@ -39,6 +39,7 @@
 | AR05BTCW4993A010 | Viking | 10 | 0.0444 | 0.44 | LCSC | [Link](https://www.lcsc.com/product-detail/C374699.html) |
 | RT0805BRD07499KL | YAGEO | 10 | 0.0596 | 0.60 | LCSC | [Link](https://www.lcsc.com/product-detail/C706243.html) |
 | PCB | JLPCB | 5 | $6.20 | $6.20 | JLPCB | absent |
+| Shipping |  | $13.26 | 13 | $13.26 |  |  |
 <!--END_SECTION:BOM-TABLE-->
 # HOW TO INSTALL THE FIRMWARE (Hakronomia.py):
 
